@@ -1,0 +1,15 @@
+{
+  "name": "mhrbackend",
+  "version": "1.0.0",
+  "description": "Backend of the Maharashtrian Recipe app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Maharashtrian",
+    "Recipe"
+  ],
+  "author": "Sanvi Bongale",
+  "license": "ISC"
+}
